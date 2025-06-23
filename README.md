@@ -1,22 +1,22 @@
 # 🦆 MariacebriaF | SuperPato
 
-**Informática Robótica en formación | Programación Competitiva | Robótica + IA | C++ Lover**
+**Estudiante de Informática Industrial y Robótica | Programación Competitiva | Robótica + IA | C++ Lover**
 
-Apasionada por resolver problemas complejos con código limpio y eficiente. Estudiante de Informática Industrial y Robótica en la UPV, con un reto personal: **convertirme en una experta en programación y construir productos tecnológicos con impacto real.**
+Apasionada por resolver problemas complejos con soluciones elegantes y eficientes. Estudio en la UPV con un reto personal: **convertirme en una desarrolladora experta y construir productos tecnológicos con impacto real**.
 
 ---
 
-## 🚀 About Me
+## 🚀 Sobre mí
 
 - 🎯 Reto actual: **300 problemas en LeetCode**
-- 🧠 Aprendiendo: Python, SQL y desarrollo de sistemas robóticos
-- ⏳ Proyectos: Se vienen cositas
-- 🎥 Intento subir videos sobre robótica, electrónica y programación [María Cebriá Fernández](https://www.youtube.com/@MariaCebriaF)
+- 🧠 Aprendiendo: Python, SQL y desarrollo de sistemas embebidos
+- 🛠️ Preparando mis primeros proyectos en robótica y asistentes inteligentes
+- 🎥 Comparto avances y explicaciones en mi canal: [YouTube – María Cebriá Fernández](https://www.youtube.com/@MariaCebriaF)
 - 🌍 Ubicación: Valencia, España
 
 ---
 
-## 🧠 Tech Stack
+## 💻 Tech Stack
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -26,7 +26,7 @@ Apasionada por resolver problemas complejos con código limpio y eficiente. Estu
 
 ---
 
-## 📊 LeetCode Progress
+## 📊 LeetCode
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/SuperPato)](https://leetcode.com/SuperPato/)
 
@@ -40,19 +40,21 @@ Apasionada por resolver problemas complejos con código limpio y eficiente. Estu
 
 ---
 
-## 🛠️ Proyectos Destacados
+## 🛠️ En desarrollo
 
-| Proyecto | Descripción | Tecnologías |
-|---------|-------------|-------------|
-| 📊 **Notion P.A.R.A. Template** | Plantilla pública basada en el método de Tiago Forte | `Notion`, `Gestión personal`, `Plantilla compartida` |
+Estoy trabajando en varios proyectos personales relacionados con:
 
+- 🤖 Robótica móvil con Raspberry Pi
+- 🗣️ Asistentes de voz con Python y hardware libre
+- 📊 Automatización personal con Notion y productividad
 
+🧪 Todo lo que aprendo lo documento en repos públicos y vídeos cortos.
 
 ---
 
-## 📫 Let’s connect!
+## 🌐 Contacto
 
-- 📬 [LinkedIn](www.linkedin.com/in/maría-fátima-cebriá-fernández-2219a632a)
+- 📬 [LinkedIn](https://www.linkedin.com/in/maría-fátima-cebriá-fernández-2219a632a)
 - 📺 [YouTube](https://www.youtube.com/@MariaCebriaF)
 - 🧠 [LeetCode](https://leetcode.com/SuperPato)
 - 🐣 [Codeforces](https://codeforces.com/profile/SuperPato)
