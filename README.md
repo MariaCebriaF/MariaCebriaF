@@ -1,52 +1,58 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+# 👩‍💻 Mariacebria | SuperPato
 
-###
+**Ingeniera en formación | Programación Competitiva | Robótica + IA | C++ Lover**
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
-</div>
+Apasionada por resolver problemas complejos con código limpio y eficiente. Estudiante de Ingeniería Informática Industrial y Robótica en la UPV, con un reto personal: **convertirme en una experta en programación y construir productos tecnológicos con impacto real.**
 
-###
+---
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
-</div>
+## 🚀 About Me
 
-###
+- 🎯 Reto actual: **300 problemas en LeetCode**
+- 🧠 Aprendiendo: Python, SQL y desarrollo de sistemas con POSIX
+- 🤖 Proyectos: robot móvil con brazo robótico + asistente de voz casero
+- 🎥 Divulgo programación en mi canal [SuperPato](https://www.youtube.com/@superpato)
+- 🌍 Ubicación: Valencia, España
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
+---
 
-###
+## 🧠 Tech Stack
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat&logo=raspberrypi&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
 
-###
+---
+
+## 📊 LeetCode Progress
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/SuperPato)](https://leetcode.com/SuperPato/)
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mariacebria&show_icons=true&theme=default&hide=issues&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariacebria&layout=compact&langs_count=6&hide=html,css)
+
+---
+
+## 🛠️ Proyectos Destacados
+
+| Proyecto | Descripción | Tecnologías |
+|---------|-------------|-------------|
+| 🤖 **Asistente de Voz Casero** | Asistente básico hecho con Python y Raspberry Pi 5 para gestionar recordatorios y tareas | `Python`, `Speech Recognition`, `TTS`, `Raspberry Pi` |
+| 📦 **Robot Móvil en Planta Industrial** | Plataforma robótica con brazo para asistencia a operarios de montaje | `C++`, `UR16e`, `ROS`, `OnRobot RG6` |
+| 📊 **Notion P.A.R.A. Template** | Plantilla pública basada en el método de Tiago Forte | `Notion`, `Gestión personal`, `Plantilla compartida` |
+
+---
+
+## 📫 Let’s connect!
+
+- 📬 [LinkedIn](https://www.linkedin.com/in/mariacebria)
+- 📺 [YouTube](https://www.youtube.com/@superpato)
+- 🧠 [LeetCode](https://leetcode.com/SuperPato)
