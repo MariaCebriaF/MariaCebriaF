@@ -43,8 +43,12 @@ Busco aprender, enseñar y crear herramientas que simplifiquen la vida de las pe
 
 ## 🧠 Lenguajes y Tecnologías
 <h1 align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=F5C84C&center=true&vCenter=true&width=450&lines=🚀+Mi+stack+favorito;⚙️+Todo+lo+que+uso+cada+día" alt="Typing SVG" />
-  </h1>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=F5C84C&center=true&vCenter=true&width=450&lines=%F0%9F%9A%80+Mi+stack+favorito;%E2%9A%99%EF%B8%8F+Todo+lo+que+uso+cada+d%C3%ADa"
+    alt="Typing SVG"
+  />
+</h1>
+
 
 
 ### 🎨 Frontend
