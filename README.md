@@ -1,23 +1,20 @@
-<!-- 💫 PLANTILLA README PROFESIONAL (versión Devicon + SimpleIcons) -->
-<!-- Diseñada por María Cebriá (@mariacebria) -->
-<!-- Instrucciones:
-1️⃣ Sustituye los textos “Lorem ipsum” y los enlaces por tu información.
-2️⃣ Elimina los iconos que no uses o añade nuevos desde https://devicon.dev o https://simpleicons.org
-3️⃣ Mantén la estructura si quieres conservar el diseño y formato PRO.
--->
+
+
 
 <div align="center">
 
-  <!-- 🧠 Encabezado animado con efecto typewriting -->
-  <h1 align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=450&lines=👋+Hola!+Soy+María;Me+ gusta+ programar+ cosas;E+inspirar+a+ los+demás" alt="Typing SVG" />
-  </h1>
+<h1 align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=450&lines=%F0%9F%91%8B+Hola!+Soy+Maria;Me+gusta+programar+cosas;E+inspirar+a+los+demás"
+    alt="Typing SVG"
+/>
+</h1>
 
   <h3 align="center">
     GIIROB · @UPV 🎓
   </h3>
 
-  <!-- Divider visual -->
+
   <img src="https://capsule-render.vercel.app/api?type=rect&color=F5C84C&height=2&section=header" width="80%"/>
 
 </div>
@@ -48,11 +45,6 @@ Busco aprender, enseñar y crear herramientas que simplifiquen la vida de las pe
 <h1 align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=F5C84C&center=true&vCenter=true&width=450&lines=🚀+Mi+stack+favorito;⚙️+Todo+lo+que+uso+cada+día" alt="Typing SVG" />
   </h1>
-
-
-
-<!-- 💡 Consejo: usa iconos de https://devicon.dev (para lenguajes) o https://simpleicons.org (para marcas). -->
-<!-- Puedes ajustar el tamaño con width="40" o el color con /COLORHEX al final del enlace. -->
 
 
 ### 🎨 Frontend
@@ -93,15 +85,13 @@ Busco aprender, enseñar y crear herramientas que simplifiquen la vida de las pe
   <img src="https://cdn.simpleicons.org/arduino/00979D" width="45"/>
 </p>
 
-<!-- Incluso si quieres hacerte el guay xd-->
-
 ### 🏠 Mis sistemas operativos fav
-<!-- Escoge el tuyo-->
+
 <p align = "center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" width = "45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" width = "45"/>
           
-<!-- Editores de codigo-->    
+
 ### 📒 Editores de código  
 <p align = "center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg"  width = "45"/>
@@ -130,7 +120,7 @@ Busco aprender, enseñar y crear herramientas que simplifiquen la vida de las pe
 </div>
 
 ## 🧩 Me gustan los retos
-<!-- Sustituye los enlaces por tus perfiles -->
+
 <div align="center">
   <a href="https://codeforces.com/profile/SuperPato">
     <img src="https://cdn.simpleicons.org/codeforces/1F8ACB" width="40" />
