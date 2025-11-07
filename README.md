@@ -2,13 +2,13 @@
 
 
 <div align="center">
-
 <h1 align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=450&lines=%F0%9F%91%8B+Hola!+Soy+Maria;Me+gusta+programar+cosas;E+inspirar+a+los+demás"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=450&lines=%F0%9F%91%8B+Hola!+Soy+Mar%C3%ADa;Me+gusta+programar+cosas;E+inspirar+a+los+dem%C3%A1s"
     alt="Typing SVG"
-/>
+  />
 </h1>
+
 
   <h3 align="center">
     GIIROB · @UPV 🎓
