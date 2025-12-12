@@ -113,6 +113,7 @@ Busco aprender, enseñar y crear herramientas que simplifiquen la vida de las pe
 |---|---|---|
 | 🧠 [Mi Portafolio](https://mariacebria.com) | Web personal con animaciones y secciones dinámicas. | React · Next.js · Tailwind |
 | 🤖 [Plantillas Web Clínicas](https://github.com/MariaCebriaF/web-clinica-template) | Mi primer proyecto web público. | React · Tailwind |
+| 🤖 [Advent of Code 2025](https://github.com/MariaCebriaF/AdventOfCode2025) | Mi primer año haciendolo completo yeiii. | C++ · Un pelín de Excel |
 | 🦆 [Canal de Youtube](https://www.youtube.com/@MariaCebriaF) | Contenido educativo de programación y proyectos. | YouTube · Notion · OBS |
 
 
